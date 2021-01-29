@@ -2,8 +2,8 @@ require 'pony'
 require 'io/console'
 require 'highline'
 
-mailbox = 'smd.pp@yandex.ru'
-password = 'savemydata$$$'
+mailbox = 'box@mail.com'
+password = 'password'
 
 # puts "Введите пароль от вашей почты #{mailbox} для отправки письма:"
 # password = STDIN.gets.chomp
